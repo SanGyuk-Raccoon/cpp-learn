@@ -13,5 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="헤더 파일\BaseModule">
+      <UniqueIdentifier>{ef0391d0-95f3-4b5e-832e-06e7ee3b61ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestObject.h">
+      <Filter>헤더 파일\BaseModule</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractExecuter.h">
+      <Filter>헤더 파일\BaseModule</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectGenerator.h">
+      <Filter>헤더 파일\BaseModule</Filter>
+    </ClInclude>
+    <ClInclude Include="DataType.h">
+      <Filter>헤더 파일\BaseModule</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

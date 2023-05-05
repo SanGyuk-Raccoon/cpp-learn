@@ -123,6 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AbstractExecuter.h" />
+    <ClInclude Include="DataType.h" />
+    <ClInclude Include="ObjectGenerator.h" />
+    <ClInclude Include="TestObject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
